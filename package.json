@@ -11,5 +11,18 @@
   "dependencies": {
     "xtend": "^3.0.0",
     "errno": "^0.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesla/levelup-util.git"
+  },
+  "keywords": [
+    "levelup",
+    "util"
+  ],
+  "bugs": {
+    "url": "https://github.com/kesla/levelup-util/issues"
+  },
+  "homepage": "https://github.com/kesla/levelup-util"
 }
