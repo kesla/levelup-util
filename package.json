@@ -1,0 +1,15 @@
+{
+  "name": "levelup-util",
+  "version": "0.0.0",
+  "description": "lib/util.js from levelup",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xtend": "^3.0.0",
+    "errno": "^0.1.1"
+  }
+}
